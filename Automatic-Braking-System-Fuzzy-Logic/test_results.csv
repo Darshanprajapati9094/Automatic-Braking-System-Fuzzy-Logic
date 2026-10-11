@@ -1,0 +1,11 @@
+ID,Distance_m,ClosingSpeed_mps,Expected,Output_pct
+1,5,25,Hard,84.4
+2,10,10,Hard,84.4
+3,15,5,Moderate,44.5
+4,20,15,Moderate–Hard,62.4
+5,40,5,Light,15.6
+6,40,15,Moderate,50.0
+7,40,25,Hard,84.4
+8,70,5,Light,16.3
+9,70,15,Light,16.3
+10,90,28,Moderate,50.0
